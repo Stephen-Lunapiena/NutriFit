@@ -6,7 +6,7 @@ function Nav() {
    <nav >
        <h1>NutriFit</h1>
     <ul className='nav-links' >
-        <Link to ='/about'>
+        <Link to ='/about' >
         <li>
             About Us
         </li>
